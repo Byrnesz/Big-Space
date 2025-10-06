@@ -6,11 +6,10 @@ description: >-
 
 # Adaptive Bayesian Diagnosis Ver2
 
-This version adds **case history logging**: every diagnostic session (with symptoms, computed probabilities, chosen diagnosis, and user confirmation) is saved in a `case_history.csv` file for later review or analysis.
+This version adds **case history logging**: every diagnostic session (with symptoms, computed probabilities, chosen diagnosis, and user confirmation) is saved in a `case_history.csv` file for later review or analysis
 
 {% code title="adaptive_bayesian_diagnosis_history.py" overflow="wrap" lineNumbers="true" %}
 ```python
-// 
 # Adaptive Bayesian Diagnostic Assistant with Case History Logging
 # Learns from diagnosis outcomes and stores full patient cases.
 # Author: ChatGPT
