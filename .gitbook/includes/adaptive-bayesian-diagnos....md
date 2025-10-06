@@ -2,7 +2,7 @@
 title: '# Adaptive Bayesian Diagnos...'
 ---
 
-{% code overflow="wrap" lineNumbers="true" %}
+{% code title="adaptive_bayesian_diagnosis.py" overflow="wrap" lineNumbers="true" %}
 ```python
 # Adaptive Bayesian Diagnostic Assistant
 # Learns from diagnosis outcomes using Bayesian updating.
